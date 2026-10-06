@@ -1,4 +1,4 @@
-# Ceaser-Cipher
+# Caeser-Cipher
 Caesar Cipher
 
 A simple Caesar Cipher program written in Python that can encrypt and decrypt text by shifting letters in the alphabet.
